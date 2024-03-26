@@ -15,17 +15,17 @@ dependencies:
   flutter:
     sdk: flutter
 
-  zego_uikit: ^2.18.7
-  zego_uikit_signaling_plugin: ^2.7.6
-  zego_plugin_adapter: ^2.11.4
-  file_picker: ^6.0.0
+  zego_uikit: any
+  zego_uikit_signaling_plugin: any
+  zego_plugin_adapter: any
+  file_picker: any
 
-  flutter_styled_toast: ^2.2.1
-  cached_network_image: ^3.3.0
-  statemachine: ^3.3.1
-  permission_handler: ^11.0.1
+  flutter_styled_toast: any
+  cached_network_image: any
+  statemachine: any
+  permission_handler: any
   # 1.18.0
-  collection: ^1.17.2
+  collection: any
 
 dev_dependencies:
   flutter_test:
